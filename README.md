@@ -1,4 +1,4 @@
 webscrap
 ========
 
-this is task web scrap
+This is sample web scrap using CURL & xPath.
